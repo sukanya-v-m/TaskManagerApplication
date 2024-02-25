@@ -1,0 +1,122 @@
+Fri Jun 09 07:47:28 IST 2023:----Starting Task Manager----
+Mon Jun 12 09:50:50 IST 2023:----Starting Task Manager----
+Mon Jun 12 09:52:01 IST 2023:----Starting Task Manager----
+Mon Jun 12 09:59:11 IST 2023:----Creating category----
+Mon Jun 12 10:08:05 IST 2023:----Category Created Successfully----
+Mon Jun 12 15:52:12 IST 2023:----Starting Task Manager----
+Mon Jun 12 15:52:33 IST 2023:----Deleting Category----
+Mon Jun 12 15:52:37 IST 2023:----Category Deletion failed----
+Mon Jun 12 15:52:49 IST 2023:----Deleting Category----
+Mon Jun 12 15:52:52 IST 2023:----Category Deleted Successfully----
+Mon Jun 12 15:53:03 IST 2023:----Deleting Category----
+Mon Jun 12 15:53:14 IST 2023:----Category Deleted Successfully----
+Mon Jun 12 15:53:25 IST 2023:----Updating Category----
+Mon Jun 12 16:06:45 IST 2023:----Updating Category----
+Mon Jun 12 16:11:45 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:11:48 IST 2023:----Updating Category----
+Mon Jun 12 16:12:28 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:12:31 IST 2023:----Updating Category----
+Mon Jun 12 16:12:43 IST 2023:----Deleting Category----
+Mon Jun 12 16:12:46 IST 2023:----Category Deleted Successfully----
+Mon Jun 12 16:12:49 IST 2023:----Deleting Category----
+Mon Jun 12 16:12:58 IST 2023:----Category Deleted Successfully----
+Mon Jun 12 16:17:12 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:17:13 IST 2023:----Creating category----
+Mon Jun 12 16:17:16 IST 2023:----Category Created Successfully----
+Mon Jun 12 16:17:25 IST 2023:--------Exiting Task Manager--------
+Mon Jun 12 16:17:51 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:17:54 IST 2023:----Updating Category----
+Mon Jun 12 16:20:16 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:20:18 IST 2023:----Updating Category----
+Mon Jun 12 16:25:14 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:25:16 IST 2023:----Updating Category----
+Mon Jun 12 16:25:29 IST 2023:----Category Deletion failed----
+Mon Jun 12 16:28:59 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:29:02 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:29:08 IST 2023:----Category Deletion failed----
+Mon Jun 12 16:29:12 IST 2023:----Creating category----
+Mon Jun 12 16:29:15 IST 2023:----Category Created Successfully----
+Mon Jun 12 16:29:21 IST 2023:----Updating Category----
+Mon Jun 12 16:29:44 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:29:58 IST 2023:----Starting Task Manager----
+Mon Jun 12 16:30:12 IST 2023:----Deleting Category----
+Tue Jun 13 10:13:28 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:13:32 IST 2023:----Creating category----
+Tue Jun 13 10:13:33 IST 2023:----Category creation failed----
+Tue Jun 13 10:13:42 IST 2023:----Updating Category----
+Tue Jun 13 10:14:02 IST 2023:----Deleting Category----
+Tue Jun 13 10:14:08 IST 2023:----Category Deletion failed----
+Tue Jun 13 10:14:10 IST 2023:----Creating category----
+Tue Jun 13 10:14:12 IST 2023:----Category Created Successfully----
+Tue Jun 13 10:14:17 IST 2023:----Updating Category----
+Tue Jun 13 10:14:38 IST 2023:----Deleting Category----
+Tue Jun 13 10:14:41 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:14:44 IST 2023:--------Exiting Task Manager--------
+Tue Jun 13 10:14:50 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:15:18 IST 2023:----Deleting Category----
+Tue Jun 13 10:15:20 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:15:24 IST 2023:----Deleting Category----
+Tue Jun 13 10:15:27 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:15:44 IST 2023:----Category Deletion failed----
+Tue Jun 13 10:16:07 IST 2023:----Category Deletion failed----
+Tue Jun 13 10:16:13 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:16:20 IST 2023:----Creating category----
+Tue Jun 13 10:16:22 IST 2023:----Category creation failed----
+Tue Jun 13 10:16:40 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:16:41 IST 2023:----Updating Category----
+Tue Jun 13 10:19:11 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:19:18 IST 2023:----Updating Category----
+Tue Jun 13 10:19:24 IST 2023:----Deleting Category----
+Tue Jun 13 10:19:27 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:19:29 IST 2023:----Deleting Category----
+Tue Jun 13 10:19:32 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:19:37 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:19:38 IST 2023:----Updating Category----
+Tue Jun 13 10:21:21 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:21:27 IST 2023:----Updating Category----
+Tue Jun 13 10:21:35 IST 2023:----Deleting Category----
+Tue Jun 13 10:21:37 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:21:39 IST 2023:----Deleting Category----
+Tue Jun 13 10:21:41 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:21:57 IST 2023:----Category Deletion failed----
+Tue Jun 13 10:22:01 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:22:06 IST 2023:----Deleting Category----
+Tue Jun 13 10:24:05 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:24:07 IST 2023:----Deleting Category----
+Tue Jun 13 10:24:09 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:24:11 IST 2023:----Deleting Category----
+Tue Jun 13 10:24:12 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 10:24:18 IST 2023:----Starting Task Manager----
+Tue Jun 13 10:24:22 IST 2023:----Category Deletion failed----
+Tue Jun 13 13:00:02 IST 2023:----Starting Task Manager----
+Tue Jun 13 13:00:13 IST 2023:----Creating category----
+Tue Jun 13 13:00:36 IST 2023:----Category Created Successfully----
+Tue Jun 13 13:00:44 IST 2023:----Category loading failed----
+Tue Jun 13 13:00:49 IST 2023:----Creating task----
+Tue Jun 13 13:02:31 IST 2023:----Task Added Successfully----
+Tue Jun 13 13:05:41 IST 2023:----Category loading failed----
+Tue Jun 13 13:07:10 IST 2023:----Updating task----
+Tue Jun 13 13:08:08 IST 2023:----Updating task name----
+Tue Jun 13 13:08:39 IST 2023:----Updating task----
+Tue Jun 13 13:08:39 IST 2023:----Task name updated successfully----
+Tue Jun 13 16:05:37 IST 2023:----Starting Task Manager----
+Tue Jun 13 16:05:51 IST 2023:----Deleting Category----
+Tue Jun 13 16:05:53 IST 2023:----Category Deletion failed----
+Tue Jun 13 16:05:57 IST 2023:----Deleting Category----
+Tue Jun 13 16:06:04 IST 2023:----Category Deleted Successfully----
+Tue Jun 13 16:06:24 IST 2023:----Creating category----
+Tue Jun 13 16:06:38 IST 2023:----Category Created Successfully----
+Tue Jun 13 16:06:42 IST 2023:----Category loading failed----
+Tue Jun 13 16:06:46 IST 2023:----Task Deletion failed----
+Tue Jun 13 16:07:43 IST 2023:----Creating task----
+Tue Jun 13 16:08:57 IST 2023:----Task Added Successfully----
+Tue Jun 13 16:10:00 IST 2023:----Updating Category----
+Tue Jun 13 17:08:32 IST 2023:----Starting Task Manager----
+Tue Jun 13 17:08:41 IST 2023:----Starting Task Manager----
+Sun Feb 25 19:42:52 IST 2024:----Starting Task Manager----
+Sun Feb 25 19:43:11 IST 2024:----loading Category----
+Sun Feb 25 19:43:57 IST 2024:----loading Category----
+Sun Feb 25 19:45:05 IST 2024:----Adding task----
+Sun Feb 25 19:46:04 IST 2024:----Task Added----
+Sun Feb 25 19:46:15 IST 2024:----Creating category----
+Sun Feb 25 19:46:23 IST 2024:----Category Created Successfully----
